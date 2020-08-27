@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Alexander 'Alex' Yumashev, I'm the founder and lead developer at [@jitbit](https://github.com/jitbit) my self-funded software startup that builds an awesome [helpdesk ticketing app](https://jitbit.github.com/helpdesk/)
+
+Involved in a number of OSS proejcts, check the pinned repos.
+
 <!--
 **alex-jitbit/alex-jitbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
