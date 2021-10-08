@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Alexander 'Alex' Yumashev, I'm the founder and lead developer at [@jitbit](https://github.com/jitbit) my self-funded software startup that builds an awesome [helpdesk ticketing app](https://jitbit.github.com/helpdesk/)
+My name is Alexander 'Alex' Yumashev, I'm the founder and lead developer at [@jitbit](https://github.com/jitbit) my self-funded software startup that builds an awesome [helpdesk ticketing app](https://www.jitbit.com/helpdesk/)
 
 Authored a number of OSS proejcts, check the pinned repos.
 
